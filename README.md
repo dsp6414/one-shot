@@ -13,5 +13,6 @@ there are 10 different images of the selected subject named as:
     Y.pgm
 where Y indicates which image for the specific subject (between 1 and 10).
 
-this architecture is given an input pair , along with the label (similar/dissimilar).
+this architecture is given an input pair , along with the label (similar/dissimilar). and them it gives result in form of Dw value. A high value of Dw indicates higher dissimilarity. as shown in result folder.
+for more details the ppt file is also attached.
 
